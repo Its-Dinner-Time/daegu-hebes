@@ -118,7 +118,7 @@ a {
 .hb__index-content-1-img-wrapper {
   flex: 1;
   height: 500px;
-  background-image: url('/asset/img/content1/content1-main.jpeg');
+  background-image: url('../asset/img/content1/content1-main.jpeg');
   background-position: center;
   background-size: cover;
 }
@@ -157,7 +157,7 @@ a {
   font-weight: 700;
 }
 .hb__index-content-2-img-wrapper {
-  background-image: url('/asset/img/content1/reading.jpeg');
+  background-image: url('../asset/img/content1/reading.jpeg');
   background-position: center;
   background-size: cover;
   max-width: 425px;
@@ -166,7 +166,7 @@ a {
 }
 .hb__index-content-3 {
   margin: 2rem auto;
-  background-image: url('/asset/img/content1/content3-main.jpeg');
+  background-image: url('../asset/img/content1/content3-main.jpeg');
   background-position: center;
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.45);
@@ -448,14 +448,14 @@ a {
   translate: 0.5em;
 }
 .hb__index-content-7-body-item--freebook {
-  background-image: url('/asset/img/content1/content4-freebooks.jpeg');
+  background-image: url('../asset/img/content1/content4-freebooks.jpeg');
 }
 .hb__index-content-7-body-item--freebook::after {
   top: -10px;
   left: 10px;
 }
 .hb__index-content-7-body-item--bookclub {
-  background-image: url('/asset/img/content1/content4-bookclub.png');
+  background-image: url('../asset/img/content1/content4-bookclub.png');
 }
 .hb__index-content-7-body-item--bookclub::after {
   top: -10px;
@@ -463,7 +463,7 @@ a {
 }
 .hb__index-content-7-body-item--social {
   align-items: flex-end;
-  background-image: url('/asset/img/content1/content4-social.jpeg');
+  background-image: url('../asset/img/content1/content4-social.jpeg');
 }
 .hb__index-content-7-body-item--social::after {
   top: -10px;
@@ -471,7 +471,7 @@ a {
 }
 .hb__index-content-7-body-item--wine {
   align-items: flex-end;
-  background-image: url('/asset/img/content1/content4-wine.jpeg');
+  background-image: url('../asset/img/content1/content4-wine.jpeg');
 }
 .hb__index-content-7-body-item--wine::after {
   top: -10px;
@@ -496,7 +496,7 @@ a {
   padding-bottom: 75px;
   font-size: 1.5rem;
   color: #fff;
-  background-image: url('/asset/img/content1/tail-background.jpeg');
+  background-image: url('../asset/img/content1/tail-background.jpeg');
   background-color: rgba(0, 0, 0, 0.75);
   background-position: center;
   background-size: cover;
